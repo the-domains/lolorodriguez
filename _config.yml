@@ -1,16 +1,16 @@
-typography_spectrum: 0.6482531111687422
+typography_spectrum: 0.020548725500702858
 color:
-  brandStrength: 0.7712126553524286
-  lightness: 0.08952408120967448
-  saturation: 0.31755738356150687
-  rhythmicContrast: 0.4630258660763502
+  brandStrength: 0.5427872890140861
+  lightness: 0.4308263848070055
+  saturation: 0.7735383382532746
+  rhythmicContrast: 0.8473406771663576
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.07125745387747884
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.8603383044246584
 name: lolorodriguez
 title: loló rodriguez
 description: artista visual
